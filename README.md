@@ -48,4 +48,4 @@ The bot will log in to Discord and begin creating backups at the specified inter
 
 If you encounter any issues during the setup or usage of the bot, please create a new issue in the repository or contact me through discord.
 
-If you encounter any issues during the setup or usage of the bot, please refer to the troubleshooting section in this document or create a new issue in the repository.
+
